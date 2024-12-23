@@ -1,4 +1,4 @@
-KHAN PROJECT 1 
+
 The college group repository for the Software Engineering Practice
 
 Members
